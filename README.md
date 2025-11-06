@@ -1,3 +1,5 @@
+Name: Irma Smajlovic (Team 28)
+
 # Sequential Circuits: Latches
 
 In this lab, you learned about the basic building block of sequential circuits: the latch.
