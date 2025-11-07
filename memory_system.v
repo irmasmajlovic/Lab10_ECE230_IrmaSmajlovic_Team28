@@ -33,7 +33,7 @@ module memory_system(
     
     );
     
-    datademux ddminst_1 (
+    data_demux ddminst_1 (
     .data(data),
     .sel(addr),
     .A(data_pass0),
